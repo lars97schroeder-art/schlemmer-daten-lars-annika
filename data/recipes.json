@@ -1,6 +1,6 @@
 {
   "version": "5.5",
-  "updated": "2026-11-25T21:42:51.949Z",
+  "updated": "2026-11-25T21:43:02.584Z",
   "recipes": [
     {
       "id": "kaesespaetzle",
@@ -432,8 +432,7 @@
       "emoji": "",
       "image": "data/images/asia-snoodles-pfanne-1783373686-0.jpg",
       "images": [
-        "data/images/asia-snoodles-pfanne-1783373686-0.jpg",
-        "data/images/asia-snoodles-pfanne-1795642970-0.jpg"
+        "data/images/asia-snoodles-pfanne-1783373686-0.jpg"
       ],
       "ingredients": [
         "Ramen Snoodels"
@@ -442,7 +441,7 @@
       "notes": "",
       "bereich": "kochen",
       "created": "2026-07-08T07:04:48.327Z",
-      "updated": "2026-11-25T21:42:51.948Z",
+      "updated": "2026-11-25T21:43:02.583Z",
       "updatedBy": "Lars"
     },
     {
