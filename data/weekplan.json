@@ -1,0 +1,347 @@
+{
+  "updated": "2026-11-25T20:42:25.284Z",
+  "by": "Lars",
+  "weeks": {
+    "2026-W28": {
+      "mo": [
+        "TEXT:Ich hab dich lieb"
+      ],
+      "di": [],
+      "mi": [],
+      "do": [
+        "TEXT:Bei Alex",
+        "TEXT:Kuscheln",
+        "TEXT:Dean and david"
+      ],
+      "fr": [
+        "TEXT:TBD"
+      ],
+      "sa": [
+        "TEXT:Dinner mit Helmut und Nathalie 🙌🏻"
+      ],
+      "so": [
+        "pizzaaaaa"
+      ],
+      "off": []
+    },
+    "2026-W32": {
+      "mo": [
+        "TEXT:Lars in Kölle"
+      ],
+      "di": [
+        "TEXT:Lars in Kölle"
+      ],
+      "mi": [
+        "TEXT:Lars in Kölle"
+      ],
+      "do": [
+        "TEXT:Lars in Kölle"
+      ],
+      "fr": [
+        "TEXT:Lars in Kölle"
+      ],
+      "sa": [
+        "TEXT:Lars in Kölle"
+      ],
+      "so": [
+        "TEXT:Bei Siggi"
+      ],
+      "off": [
+        "so",
+        "mo",
+        "di",
+        "mi",
+        "do",
+        "fr",
+        "sa"
+      ]
+    },
+    "2026-W33": {
+      "mo": [
+        "TEXT:Siggi Housesitting"
+      ],
+      "di": [
+        "TEXT:Siggi Housesitting"
+      ],
+      "mi": [
+        "TEXT:Siggi Housesitting"
+      ],
+      "do": [
+        "TEXT:Siggi Housesitting"
+      ],
+      "fr": [
+        "TEXT:Siggi Housesitting"
+      ],
+      "sa": [
+        "TEXT:Urlaaaaaub, Urlaub in Italien"
+      ],
+      "so": [
+        "TEXT:Urlaaaaaub, Urlaub in Italien"
+      ],
+      "off": [
+        "sa",
+        "so"
+      ]
+    },
+    "2026-W31": {
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [
+        "TEXT:Lars in Kölle"
+      ],
+      "off": [
+        "so",
+        "sa"
+      ]
+    },
+    "2026-W29": {
+      "mo": [
+        "TEXT:Annika In München"
+      ],
+      "di": [
+        "TEXT:Annika in München"
+      ],
+      "mi": [
+        "TEXT:Lars lonely Pasta... :("
+      ],
+      "do": [
+        "maultaschen-pfanne"
+      ],
+      "fr": [
+        "pizzaaaaa"
+      ],
+      "sa": [
+        "TEXT:Sushi in Einsiedeln"
+      ],
+      "so": [
+        "brokkoli-pasta"
+      ],
+      "off": [
+        "mo",
+        "di",
+        "mi",
+        "sa",
+        "so",
+        "do",
+        "fr"
+      ]
+    },
+    "2026-W30": {
+      "mo": [
+        "kokosmilch-gemuese-mit-sojasosse"
+      ],
+      "di": [
+        "TEXT:Antonia in Luzern",
+        "kokosmilch-gemuese-mit-sojasosse"
+      ],
+      "mi": [
+        "TEXT:Antonia in Luzern"
+      ],
+      "do": [
+        "TEXT:Antonia in Luzern",
+        "nasty-gnocchi"
+      ],
+      "fr": [
+        "TEXT:Antonia in Luzern"
+      ],
+      "sa": [],
+      "so": [],
+      "off": [
+        "mo",
+        "di",
+        "do"
+      ]
+    },
+    "2026-W34": {
+      "mo": [
+        "TEXT:Urlaaaaaub, Urlaub in Italien"
+      ],
+      "di": [
+        "TEXT:Urlaaaaaub, Urlaub in Italien"
+      ],
+      "mi": [
+        "TEXT:Urlaaaaaub, Urlaub in Italien"
+      ],
+      "do": [
+        "TEXT:Urlaaaaaub, Urlaub in Italien"
+      ],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "off": [
+        "do",
+        "mi",
+        "di",
+        "mo"
+      ]
+    },
+    "2026-W35": {
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [
+        "TEXT:Schröders in Luzern"
+      ],
+      "sa": [
+        "TEXT:Schröders in Luzern"
+      ],
+      "so": [
+        "TEXT:Schröders in Luzern"
+      ],
+      "off": []
+    },
+    "2026-W36": {
+      "mo": [
+        "TEXT:Schröders in Luzern"
+      ],
+      "di": [
+        "TEXT:Schröders in Luzern"
+      ],
+      "mi": [
+        "TEXT:Schröders in Luzern"
+      ],
+      "do": [
+        "TEXT:Schröders in Luzern"
+      ],
+      "fr": [
+        "TEXT:Schröders in Luzern",
+        "TEXT:Hochzeit Helmut & Natalie"
+      ],
+      "sa": [
+        "TEXT:Schröders in Luzern"
+      ],
+      "so": [
+        "gnocchi-mit-cashew-pesto"
+      ],
+      "off": [
+        "fr",
+        "so"
+      ]
+    },
+    "2026-W37": {
+      "mo": [
+        "curry-kokos-pasta"
+      ],
+      "di": [
+        "TEXT:Reste"
+      ],
+      "mi": [
+        "sommerrollen"
+      ],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "off": [
+        "mo",
+        "mi"
+      ]
+    },
+    "2026-W38": {
+      "mo": [
+        "spinat-pasta"
+      ],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [
+        "TEXT:Wraps mit hack Oder chicken"
+      ],
+      "so": [
+        "bolognese"
+      ],
+      "off": [
+        "sa",
+        "so"
+      ]
+    },
+    "2026-W39": {
+      "mo": [
+        "bolognese"
+      ],
+      "di": [
+        "couscous-salat"
+      ],
+      "mi": [
+        "TEXT:Kai in Luzern"
+      ],
+      "do": [
+        "TEXT:Schweine spieße mit Salat"
+      ],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "off": [
+        "mo",
+        "di"
+      ]
+    },
+    "2026-W40": {
+      "mo": [],
+      "di": [],
+      "mi": [
+        "gnocchi-mit-cashew-pesto"
+      ],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "off": [
+        "mi"
+      ]
+    },
+    "2026-W42": {
+      "mo": [],
+      "di": [],
+      "mi": [
+        "TEXT:Schinkennudeln/tortellini"
+      ],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "off": [
+        "mi"
+      ]
+    },
+    "2026-W46": {
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [
+        "wraps"
+      ],
+      "so": [],
+      "off": [
+        "sa"
+      ]
+    },
+    "2026-W48": {
+      "mo": [],
+      "di": [
+        "gemuese-lasagne"
+      ],
+      "mi": [
+        "TEXT:Burger kinggggg"
+      ],
+      "do": [
+        "kokosmilch-gemuese-mit-sojasosse",
+        "TEXT:Reis"
+      ],
+      "fr": [
+        "roesti"
+      ],
+      "sa": [],
+      "so": [],
+      "off": []
+    }
+  }
+}

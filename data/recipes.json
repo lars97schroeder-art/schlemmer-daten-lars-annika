@@ -1,0 +1,2105 @@
+{
+  "version": "5.5",
+  "updated": "2026-11-25T09:58:22.410Z",
+  "recipes": [
+    {
+      "id": "kaesespaetzle",
+      "title": "Käsespätzle",
+      "category": [
+        "Zünftig"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "🧀",
+      "image": "data/images/kaesespaetzle-1783240941.jpg",
+      "images": [
+        "data/images/kaesespaetzle-1783240941.jpg"
+      ],
+      "ingredients": [
+        "*Spätzle",
+        "*Topping",
+        "Käse",
+        "Zwiebeln oder Röstzwiebeln"
+      ],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "group": "Spätzle",
+      "created": "2026-07-08T07:55:53.497Z",
+      "updated": "2026-11-25T09:58:22.410Z"
+    },
+    {
+      "id": "krautspaetzle",
+      "title": "Krautspätzle",
+      "category": [
+        "Zünftig"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "",
+      "images": [],
+      "ingredients": [
+        "Spätzle lol",
+        "Sauerkraut",
+        "Bacon"
+      ],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "group": "Spätzle",
+      "created": "2026-07-08T07:56:21.015Z",
+      "updated": "2026-07-08T07:57:23.400Z"
+    },
+    {
+      "id": "spitzkohlspaetzle",
+      "title": "Spitzkohlspätzle",
+      "category": [
+        "Zünftig"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "",
+      "images": [],
+      "ingredients": [
+        "Spätzle",
+        "Spitzkohl",
+        "Zwiebeln ?!?",
+        "Sahne ?",
+        "Fleiiiischhhhhh"
+      ],
+      "steps": [],
+      "notes": "Mit Hack oder Bacon",
+      "bereich": "kochen",
+      "group": "Spätzle",
+      "created": "2026-07-08T07:56:50.733Z",
+      "updated": "2026-07-08T07:56:50.733Z"
+    },
+    {
+      "id": "spaetzle-mit-lauch-und-hack",
+      "title": "Spätzle mit Lauch und Hack",
+      "category": [
+        "Zünftig"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "",
+      "images": [],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "group": "Spätzle",
+      "created": "2026-07-08T07:56:58.617Z",
+      "updated": "2026-07-08T07:56:58.617Z"
+    },
+    {
+      "id": "basic-bitch-pasta",
+      "title": "Italian Basic Bitch Pasta",
+      "category": [
+        "Pasta & Gnocchi"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "💅",
+      "image": "data/images/basic-bitch-pasta-1783240941.jpg",
+      "images": [
+        "data/images/basic-bitch-pasta-1783240941.jpg"
+      ],
+      "ingredients": [
+        "Heyyyyy mein Schatz"
+      ],
+      "steps": [],
+      "notes": "Rucola, Pesto, Tomaten",
+      "bereich": "kochen",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "curry-kokos-pasta",
+      "title": "Curry-Kokos-Pasta",
+      "category": "Pasta & Gnocchi",
+      "time": "",
+      "servings": "",
+      "emoji": "🥥",
+      "image": "data/images/curry-kokos-pasta-1783327060-0.jpg",
+      "images": [
+        "data/images/curry-kokos-pasta-1783327060-0.jpg",
+        "data/images/curry-kokos-pasta-1783327060-1.jpg"
+      ],
+      "ingredients": [
+        "Pasta",
+        "Karotte",
+        "Zucchini",
+        "Räuchertofu",
+        "Kokosmilch",
+        "Curry Paste",
+        "Gemüsebrühe ?"
+      ],
+      "steps": [],
+      "notes": "Mit Karotten und Zucchini",
+      "bereich": "kochen",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "spaghetti-carbonara",
+      "title": "Carbonara",
+      "category": [
+        "Pasta & Gnocchi"
+      ],
+      "time": "25 min",
+      "servings": "2 Portionen",
+      "emoji": "",
+      "image": "data/images/spaghetti-carbonara-1783240941.jpg",
+      "images": [
+        "data/images/spaghetti-carbonara-1783240941.jpg"
+      ],
+      "ingredients": [
+        "250 g Spaghetti",
+        "1 Rewe Bio Bacon (2 wären besser 😏)",
+        "3 Eigelb + 1 ganz",
+        "60 g Pecorino",
+        "60 g Parmesan",
+        "Schwarzer Pfeffer",
+        "Salz"
+      ],
+      "steps": [
+        "Spaghetti in reichlich Salzwasser al dente kochen",
+        "Eine Tasse Pasta Wasser an die Seite",
+        "Bacon in der Pfanne knusprig auslassen.",
+        "Eier, Eigelb und Käse mit Pfeffer verquirlen.",
+        "Nudeln abgießen (etwas Nudelwasser aufheben) und in die Pfanne geben.",
+        "Pfanne vom Herd nehmen, Ei-Käse-Mischung unterrühren (ggf. mit Nudelwasser), cremig rühren"
+      ],
+      "notes": "",
+      "bereich": "kochen",
+      "updated": "2026-07-16T17:24:26.475Z",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "schinkennudeln",
+      "title": "Schinkennudeln",
+      "category": [
+        "Pasta & Gnocchi"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "",
+      "images": [],
+      "ingredients": [
+        "Pastaaaa",
+        "Kochschinken",
+        "Erbsen",
+        "Schlagsahne"
+      ],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "bolognese",
+      "title": "Bolognese",
+      "category": [
+        "Pasta & Gnocchi"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "data/images/bolognese-1783327674-0.jpg",
+      "images": [
+        "data/images/bolognese-1783327674-0.jpg",
+        "data/images/bolognese-1783327674-1.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "Macht Annika eh am besten",
+      "bereich": "kochen",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "brokkoli-pasta",
+      "title": "Brokkoli-Pasta",
+      "category": "Pasta & Gnocchi",
+      "time": "",
+      "servings": "",
+      "emoji": "🥦",
+      "image": "",
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "tuerkische-pasta",
+      "title": "Türkische Pasta",
+      "category": [
+        "Pasta & Gnocchi"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "data/images/tuerkische-pasta-1783240941.jpg",
+      "images": [
+        "data/images/tuerkische-pasta-1783240941.jpg"
+      ],
+      "ingredients": [
+        "Pasta",
+        "Hackfleischhhhhh",
+        "Joghurt",
+        "Butter",
+        "Knoblauch",
+        "Minze (haben wir noch nie benutzt Hahahha)",
+        "Paprikapulver"
+      ],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-08T08:06:16.631Z",
+      "updated": "2026-07-08T08:06:16.631Z"
+    },
+    {
+      "id": "kuerbispasta-mit-unternehmensburrata",
+      "title": "Kürbispasta mit Unternehmensburrata",
+      "category": "Pasta & Gnocchi",
+      "time": "",
+      "servings": "",
+      "emoji": "🎃",
+      "image": "data/images/kuerbispasta-mit-unternehmensburrata-1783327827-0.jpg",
+      "images": [
+        "data/images/kuerbispasta-mit-unternehmensburrata-1783327827-0.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "lasagne",
+      "title": "Lasagne",
+      "category": "Pasta & Gnocchi",
+      "time": "",
+      "servings": "",
+      "emoji": "🍝",
+      "image": "data/images/lasagne-1783327783-0.jpg",
+      "images": [
+        "data/images/lasagne-1783327783-0.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "nasty-gnocchi",
+      "title": "Nasty Gnocchi",
+      "category": [
+        "Pasta & Gnocchi"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "😈",
+      "image": "data/images/nasty-gnocchi-1783327760-0.jpg",
+      "images": [
+        "data/images/nasty-gnocchi-1783327760-0.jpg"
+      ],
+      "ingredients": [
+        "Hackfleisch",
+        "Spinat",
+        "Gnocchi",
+        "Frischkäse"
+      ],
+      "steps": [
+        "Hackfleisch anbraten mit BISSCHEN Salz Pfeffer und gemüsebrühe",
+        "Spinat erhitzen",
+        "Gnocchi kochen/ braten",
+        "Frischkäse mit nem Schuss Wasser und Rinderbrühe vermengen. Nicht mit der rinderbrühe geizen! Darf beim abschmecken wirklich deftig würzig sein",
+        "Schichten: Gnocchi, Spinat, Hack, frischkäse",
+        "Im Backofen bei 200 grad (ca 8 min.) hier auch mit der grillfunktion arbeiten und schauen dass es leicht braun wird aber nicht verbrennt!"
+      ],
+      "notes": "",
+      "bereich": "kochen",
+      "updated": "2026-07-23T19:26:51.887Z",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "gnocchi-mit-cashew-pesto",
+      "title": "Gnocchi mit Cashew-Pesto",
+      "category": [
+        "Pasta & Gnocchi"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "data/images/gnocchi-mit-cashew-pesto-1783375921-0.jpg",
+      "images": [
+        "data/images/gnocchi-mit-cashew-pesto-1783375921-0.jpg"
+      ],
+      "ingredients": [
+        "*Pesto",
+        "20g Parmesan",
+        "60g getrocknete Tomaten (bisschen von dem Öl darf ruhig mitkommen)",
+        "Chiliflocken (optional)",
+        "30g Cashewkerne",
+        "60ml Olivenöl (54g) - weniger nehmen, eher so 40",
+        "Salz/ Pfeffer",
+        "1 Knoblauchzehe (oder zwei wenn man Bock hat 😉)"
+      ],
+      "steps": [
+        "Zutaten fürs Pesto mit einem Hand Mixer zerkleinern. Nicht zuuuu lange mixen, das darf ruhig noch Strucktur haben.",
+        "Gnochi anbraten",
+        "Nach Wunsch mit Rucola und oder Mozzarella garnieren und servieren",
+        "Enjoyyyy 😋"
+      ],
+      "notes": "",
+      "bereich": "kochen",
+      "updated": "2026-09-06T21:18:24.145Z",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "sommerrollen",
+      "title": "Sommerrollen",
+      "category": [
+        "Asia"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "🥢",
+      "image": "data/images/sommerrollen-1783369271-0.jpg",
+      "images": [
+        "data/images/sommerrollen-1783369271-0.jpg",
+        "data/images/sommerrollen-1783369271-1.jpg",
+        "data/images/sommerrollen-1783369271-2.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "curry",
+      "title": "Curry",
+      "category": "Asia",
+      "time": "",
+      "servings": "",
+      "emoji": "🍛",
+      "image": "",
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "kokosmilch-gemuese-mit-sojasosse",
+      "title": "Kokosmilch-Gemüse mit Sojasoße",
+      "category": [
+        "Asia"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "🥥",
+      "image": "data/images/kokosmilch-gemuese-mit-sojasosse-1783327937-0.jpg",
+      "images": [
+        "data/images/kokosmilch-gemuese-mit-sojasosse-1783327937-0.jpg",
+        "data/images/kokosmilch-gemuese-mit-sojasosse-1783327937-1.jpg"
+      ],
+      "ingredients": [
+        "Gemüse nach Wahl",
+        "Knoblauch",
+        "Kokosmilch",
+        "Sojasauce",
+        "Udon Nudeln oder Reis"
+      ],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "updated": "2026-07-21T17:34:15.889Z",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "asia-snoodles-pfanne",
+      "title": "Asia Snoodles Pfanne",
+      "category": [
+        "Asia"
+      ],
+      "time": "30 min",
+      "servings": "",
+      "emoji": "",
+      "image": "data/images/asia-snoodles-pfanne-1783373686-0.jpg",
+      "images": [
+        "data/images/asia-snoodles-pfanne-1783373686-0.jpg"
+      ],
+      "ingredients": [
+        "Ramen Snoodels"
+      ],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-08T07:04:48.327Z",
+      "updated": "2026-07-08T23:03:17.809Z"
+    },
+    {
+      "id": "pizzaaaaa",
+      "title": "Pizzaaaaa",
+      "category": [
+        "Streetfood"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "🍕",
+      "image": "data/images/pizzaaaaa-1783369303-0.jpg",
+      "images": [
+        "data/images/pizzaaaaa-1783369303-0.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "burger",
+      "title": "(Veggie) Burger",
+      "category": "Streetfood",
+      "time": "",
+      "servings": "",
+      "emoji": "🍔",
+      "image": "data/images/burger-1783328009-0.jpg",
+      "images": [
+        "data/images/burger-1783328009-0.jpg",
+        "data/images/burger-1783328009-1.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "Normal, Smashed, oder Veggie ?",
+      "bereich": "kochen",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "gyros",
+      "title": "Gyros",
+      "category": "Streetfood",
+      "time": "",
+      "servings": "",
+      "emoji": "🥙",
+      "image": "data/images/gyros-1783240941.jpg",
+      "ingredients": [],
+      "steps": [],
+      "notes": "Varianten: im Pita, mit Reis oder mit griechischem Salat",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "selbstgemachte-pommes-a-la-andreas",
+      "title": "Selbstgemachte Pommes à la Andreas",
+      "category": "Streetfood",
+      "time": "",
+      "servings": "",
+      "emoji": "🍟",
+      "image": "",
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "spareribs",
+      "title": "Spareribs",
+      "category": "Streetfood",
+      "time": "",
+      "servings": "",
+      "emoji": "🍖",
+      "image": "data/images/spareribs-1783243065.jpg",
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "spinatknoedel",
+      "title": "Spinatknödel",
+      "category": "Zünftig",
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "data/images/spinatknoedel-1783327381-0.jpg",
+      "images": [
+        "data/images/spinatknoedel-1783327381-0.jpg",
+        "data/images/spinatknoedel-1783327381-1.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "kaspressknoedel",
+      "title": "Kaspressknödel",
+      "category": "Zünftig",
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "data/images/kaspressknoedel-1783240941.jpg",
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "schnitzel",
+      "title": "Schnitzel",
+      "category": "Zünftig",
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "data/images/schnitzel-1783328061-0.jpg",
+      "images": [
+        "data/images/schnitzel-1783328061-0.jpg",
+        "data/images/schnitzel-1783328061-1.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "karamellisierter-rosenkohl",
+      "title": "Karamellisierter Rosenkohl",
+      "category": "Zünftig",
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "",
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "frikadellen",
+      "title": "Frikadellen (Fleischpflanzerl, Buletten…)",
+      "category": [
+        "Zünftig"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "data/images/frikadellen-1783369338-0.jpg",
+      "images": [
+        "data/images/frikadellen-1783369338-0.jpg",
+        "data/images/frikadellen-1795553680-0.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-08T07:45:04.158Z",
+      "updated": "2026-11-24T20:54:42.109Z"
+    },
+    {
+      "id": "wuerstelgulasch",
+      "title": "Würstelgulasch",
+      "category": [
+        "Zünftig"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "🌭",
+      "image": "data/images/wuerstelgulasch-1783240941.jpg",
+      "images": [
+        "data/images/wuerstelgulasch-1783240941.jpg"
+      ],
+      "ingredients": [
+        "Kartoffeln",
+        "Leberkäse oder Wienerli",
+        "Möhren",
+        "Sellerie",
+        "Zwiebeln"
+      ],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "updated": "2026-07-10T15:50:03.835Z",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "koettbullar",
+      "title": "Köttbullar",
+      "category": [
+        "Zünftig"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "🇸🇪",
+      "image": "data/images/koettbullar-1783240941.jpg",
+      "images": [
+        "data/images/koettbullar-1783240941.jpg",
+        "data/images/koettbullar-1795553711-0.jpg"
+      ],
+      "ingredients": [
+        "Ikea Köttbullar",
+        "Rahmsauce",
+        "Kartoffelpüree",
+        "Preiselbeeren (viel)"
+      ],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-04T12:00:00.000Z",
+      "updated": "2026-11-24T20:55:12.692Z"
+    },
+    {
+      "id": "sellerieschnitzel",
+      "title": "Sellerieschnitzel",
+      "category": [
+        "Zünftig"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "data/images/sellerieschnitzel-1783369170-0.jpg",
+      "images": [
+        "data/images/sellerieschnitzel-1783369170-0.jpg",
+        "data/images/sellerieschnitzel-1783369170-1.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "Auf dem Foto mit süßkartoffelpüree",
+      "bereich": "kochen",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "bratwuerste-mit-sauerkraut",
+      "title": "Nürnbergeli mit Sauerkraut & Kartoffelpüree",
+      "category": [
+        "Zünftig"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "🌭",
+      "image": "data/images/bratwuerste-mit-sauerkraut-1783240941.jpg",
+      "images": [
+        "data/images/bratwuerste-mit-sauerkraut-1783240941.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-08T07:44:34.158Z",
+      "updated": "2026-07-08T07:44:34.158Z"
+    },
+    {
+      "id": "kuerbissuppe",
+      "title": "Kürbissuppe mit Ingwer",
+      "category": [
+        "Eintöpfe & Suppen"
+      ],
+      "time": "40 Min.",
+      "servings": "4 Portionen",
+      "emoji": "",
+      "image": "data/images/kuerbissuppe-1783356334-0.jpg",
+      "images": [
+        "data/images/kuerbissuppe-1783356334-0.jpg"
+      ],
+      "ingredients": [
+        "1 Hokkaido-Kürbis",
+        "1 Zwiebel",
+        "1 Stück Ingwer (ca. 2 cm)",
+        "800 ml Gemüsebrühe",
+        "200 ml Kokosmilch",
+        "Salz, Pfeffer, Muskat",
+        "Kürbiskerne zum Bestreuen"
+      ],
+      "steps": [
+        "Kürbis waschen, entkernen und in Würfel schneiden (Hokkaido muss nicht geschält werden).",
+        "Zwiebel und Ingwer fein hacken und in etwas Öl glasig dünsten.",
+        "Kürbis dazugeben, kurz mitbraten, mit Brühe ablöschen.",
+        "Ca. 20 Minuten köcheln, bis der Kürbis weich ist.",
+        "Kokosmilch dazu, fein pürieren und abschmecken.",
+        "Mit gerösteten Kürbiskernen servieren."
+      ],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "kartoffelsuppe",
+      "title": "Kartoffelsuppe",
+      "category": [
+        "Eintöpfe & Suppen"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "🥔",
+      "image": "data/images/kartoffelsuppe-1789238267-0.jpg",
+      "images": [
+        "data/images/kartoffelsuppe-1789238267-0.jpg",
+        "data/images/kartoffelsuppe-1789238282-0.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "updated": "2026-09-12T18:38:03.305Z",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "linseneintopf",
+      "title": "Linseneintopf",
+      "category": "Eintöpfe & Suppen",
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "",
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "gulasch",
+      "title": "Gulasch",
+      "category": [
+        "Eintöpfe & Suppen"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "data/images/gulasch-1783369363-0.jpg",
+      "images": [
+        "data/images/gulasch-1783369363-0.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "Rezept von siggi holen!!",
+      "bereich": "kochen",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "gemuesesuppe",
+      "title": "Gemüsesuppe",
+      "category": [
+        "Eintöpfe & Suppen"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "data/images/gemuesesuppe-1783375474-0.jpg",
+      "images": [
+        "data/images/gemuesesuppe-1783375474-0.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "rattatatatatatouille",
+      "title": "Rattatatatatatouille",
+      "category": "Ofen & Pfanne",
+      "time": "",
+      "servings": "",
+      "emoji": "🐭",
+      "image": "data/images/rattatatatatatouille-1783326809-0.jpg",
+      "images": [
+        "data/images/rattatatatatatouille-1783326809-0.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "Mit Nudeln oder Reis, Auch Maustartouille genannt",
+      "bereich": "kochen",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "kartoffel-hackfleisch-pfanne",
+      "title": "Kartoffel-Hackfleisch-Pfanne",
+      "category": [
+        "Ofen & Pfanne"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "🥔",
+      "image": "data/images/kartoffel-hackfleisch-pfanne-1783372410-0.jpg",
+      "images": [
+        "data/images/kartoffel-hackfleisch-pfanne-1783372410-0.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "Oder halt schupfnudeln haha",
+      "bereich": "kochen",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "spanische-tortilla",
+      "title": "Spanische Tortilla",
+      "category": [
+        "Ofen & Pfanne"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "🇪🇸",
+      "image": "data/images/spanische-tortilla-1783375100-0.jpg",
+      "images": [
+        "data/images/spanische-tortilla-1783375100-0.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "Rezept vom Kochkurs mit Ros aus Barcelona raussuchen",
+      "bereich": "kochen",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "kartoffelgratin",
+      "title": "Kartoffelgratin",
+      "category": "Ofen & Pfanne",
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "",
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "zwiebelkuchen",
+      "title": "Zwiebelkuchen",
+      "category": [
+        "Ofen & Pfanne"
+      ],
+      "time": "",
+      "servings": "28cm Springform, x1.5 für Blech",
+      "emoji": "🧅",
+      "image": "data/images/zwiebelkuchen-1784747893-0.jpg",
+      "images": [
+        "data/images/zwiebelkuchen-1784747893-0.jpg"
+      ],
+      "ingredients": [
+        "FÜR DEN HEFETEIG",
+        "250g Mehl (Type 405)",
+        "1/2 Päckchen Trockenhefe",
+        "50ml lauwarmes Wasser",
+        "100ml Milch",
+        "¼ TL Zucker",
+        "2 EL Olivenöl",
+        "1 TL Salz",
+        "FÜR DIE FÜLLUNG",
+        "1 kg Zwiebel",
+        "2 EL Pflanzenöl",
+        "125g Speckwürfel",
+        "200g Schmand",
+        "2 Eier (Größe M)",
+        "100g Reibekäse",
+        "etwas Salz",
+        "1 Prise schwarzer Pfeffer",
+        "etwas Paprikapulver (edelsüß)"
+      ],
+      "steps": [
+        "Backofen 160grad umluft",
+        "Teig 5 min vorbacken",
+        "Dann Schlotze drauf",
+        "20 min mit Backpapier Deckel",
+        "20 min ohne backen",
+        "Genießen"
+      ],
+      "notes": "Gurkensalat eignet sich als Beilage 😋",
+      "bereich": "kochen",
+      "updated": "2026-07-26T10:08:49.716Z",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "shakshuka",
+      "title": "Shakshuka / Menemen",
+      "category": [
+        "Herzhaft",
+        "Ei"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "🍳",
+      "image": "data/images/shakshuka-1783240941.jpg",
+      "images": [
+        "data/images/shakshuka-1783240941.jpg",
+        "data/images/shakshuka-1783375616-0.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "Eier in Tomatensoße, mit Käse überbacken – Brot dazu",
+      "bereich": "fruehstueck",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "haehnchen-mit-gruenem-spargel",
+      "title": "Hähnchen mit grünem Spargel",
+      "category": "Ofen & Pfanne",
+      "time": "",
+      "servings": "",
+      "emoji": "🍗",
+      "image": "data/images/haehnchen-mit-gruenem-spargel-1783240941.jpg",
+      "images": [
+        "data/images/haehnchen-mit-gruenem-spargel-1783240941.jpg"
+      ],
+      "ingredients": [
+        "Chicken (ggf mariniert)",
+        "Grüner Spargel",
+        "Kartoffeln",
+        "Kräuterquark"
+      ],
+      "steps": [],
+      "notes": "Mit Kartoffeln und Quark-Dip",
+      "bereich": "kochen",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "wraps",
+      "title": "Wraps",
+      "category": [
+        "Ist das Kochen?"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "🌯",
+      "image": "data/images/wraps-1783372451-0.jpg",
+      "images": [
+        "data/images/wraps-1783372451-0.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "related": [
+        "wrap-sauce"
+      ],
+      "updated": "2026-08-01T10:33:33.322Z",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "backcamembert-mit-salat",
+      "title": "Backcamembert mit Salat",
+      "category": [
+        "Ist das Kochen?"
+      ],
+      "time": "15 min",
+      "servings": "",
+      "emoji": "🧀",
+      "image": "",
+      "images": [],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-08T07:40:12.275Z",
+      "updated": "2026-07-08T07:40:12.275Z"
+    },
+    {
+      "id": "caesar-salat",
+      "title": "Cesar Salat",
+      "category": [
+        "Salat"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "data/images/caesar-salat-1783372507-0.jpg",
+      "images": [
+        "data/images/caesar-salat-1783372507-0.jpg",
+        "data/images/caesar-salat-1783375897-0.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-08T07:54:32.716Z",
+      "updated": "2026-07-08T07:54:32.716Z"
+    },
+    {
+      "id": "italienischer-nudelsalat",
+      "title": "Italienischer Nudelsalat",
+      "category": [
+        "Pasta & Gnocchi"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "🇮🇹",
+      "image": "data/images/italienischer-nudelsalat-1795554006-0.jpg",
+      "images": [
+        "data/images/italienischer-nudelsalat-1795554006-0.jpg"
+      ],
+      "ingredients": [
+        "Pasta",
+        "Pesto Rosso",
+        "Pinien Kerne",
+        "Rucola",
+        "Tomätchen",
+        "Wahlweise mit Mozarella oder chicken"
+      ],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-08T07:54:15.917Z",
+      "updated": "2026-11-24T21:00:09.234Z"
+    },
+    {
+      "id": "couscous-salat",
+      "title": "Couscous-Salat",
+      "category": [
+        "Salat"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "data/images/couscous-salat-1783372555-0.jpg",
+      "images": [
+        "data/images/couscous-salat-1783372555-0.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-08T07:54:43.551Z",
+      "updated": "2026-07-08T07:54:43.551Z"
+    },
+    {
+      "id": "italienisches-baguette",
+      "title": "Italienisches Baguette",
+      "category": "Ist das Kochen?",
+      "time": "",
+      "servings": "",
+      "emoji": "🥖",
+      "image": "data/images/italienisches-baguette-1783240941.jpg",
+      "ingredients": [],
+      "steps": [],
+      "notes": "Baguette mit Parmaschinken und Mozzarella",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "brotzeit",
+      "title": "Brotzeit",
+      "category": [
+        "Ist das Kochen?"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "data/images/brotzeit-1783373555-0.jpg",
+      "images": [
+        "data/images/brotzeit-1783373555-0.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "hot-dogs",
+      "title": "Hot Dogs",
+      "category": [
+        "Ist das Kochen?",
+        "Streetfood"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "🌭",
+      "image": "",
+      "images": [],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-08T07:50:51.507Z",
+      "updated": "2026-07-08T07:50:51.507Z"
+    },
+    {
+      "id": "breakfast-wrap",
+      "title": "Breakfast Wrap",
+      "category": [
+        "Ei",
+        "Herzhaft"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "🌯",
+      "image": "",
+      "images": [],
+      "ingredients": [
+        "Wrap",
+        "Ei",
+        "Schuss Milch",
+        "Nach Belieben Gemüse und Salat"
+      ],
+      "steps": [
+        "Ei mit dem Gemüse als Rührei (bzw. Omelette) verquirlen",
+        "In eine Pfanne geben",
+        "Wrap auf die Ei-Masse",
+        "Warten bis Ei gestockt ist und am wrap klebt",
+        "Umdrehen, wrap bisschen rösten",
+        "Ggf Salat rein, genießen"
+      ],
+      "notes": "",
+      "bereich": "fruehstueck",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "maxvorstadt-sandwich",
+      "title": "Maxvorstadt Sandwich",
+      "category": [
+        "Ei",
+        "Herzhaft"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "🥪",
+      "image": "data/images/maxvorstadt-sandwich-1783375835-0.jpg",
+      "images": [
+        "data/images/maxvorstadt-sandwich-1783375835-0.jpg"
+      ],
+      "ingredients": [
+        "Toast",
+        "Miracel Whip",
+        "Salat (Eisberg/ Rucola / whatever)",
+        "Bacon",
+        "Ei",
+        "Gouda mittelalt",
+        "Wahlweise Tomate, Gurke"
+      ],
+      "steps": [],
+      "notes": "",
+      "bereich": "fruehstueck",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "strammer-max-nach-annikas-art",
+      "title": "Strammer Max nach Annikas Art",
+      "category": [],
+      "time": "",
+      "servings": "",
+      "emoji": "🍞",
+      "image": "data/images/strammer-max-nach-annikas-art-1783375997-0.jpg",
+      "images": [
+        "data/images/strammer-max-nach-annikas-art-1783375997-0.jpg"
+      ],
+      "ingredients": [
+        "Leberkäs",
+        "Brot",
+        "Ei",
+        "Käse"
+      ],
+      "steps": [],
+      "notes": "I knowwww das Foto ist nicht repräsentativ 🥺",
+      "bereich": "kochen",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "granola",
+      "title": "Granola",
+      "category": [
+        "Sweet"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "🥣",
+      "image": "data/images/granola-1783240941.jpg",
+      "images": [
+        "data/images/granola-1783240941.jpg",
+        "data/images/granola-1783326982-0.jpg"
+      ],
+      "ingredients": [
+        "375g Mehrkornmischung",
+        "1 Hand Walnüsse",
+        "1 Hand cashews",
+        "50g Kakao",
+        "Prise Salz",
+        "Prise Zucker",
+        "50g ahornsirup",
+        "100g Öl",
+        "100 Gramm dunkle Schoko"
+      ],
+      "steps": [
+        "Alles mischen (außer Schoki)",
+        "35 Minuten bei 160 grad Ober- Unterhitze Rösten",
+        "!! 1 bis 2 Mal wenden",
+        "Auskühlen lassen",
+        "Schokolade klein hacken und dazu geben"
+      ],
+      "notes": "Joghurt-Bowl mit Schoko-Granola, Haferflocken und frischem Obst",
+      "bereich": "fruehstueck",
+      "updated": "2026-07-11T08:01:46.381Z",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "bananenbrot",
+      "title": "Bananenbrot",
+      "category": [
+        "Kuchen"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "data/images/bananenbrot-1783326905-0.jpg",
+      "images": [
+        "data/images/bananenbrot-1783326905-0.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "Annika meint Kuchen… pfhhhh 😉😘",
+      "bereich": "backen",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "weisswurst",
+      "title": "Weißwurstfrühstück",
+      "category": [
+        "Herzhaft"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "data/images/weisswurst-1783372616-0.jpg",
+      "images": [
+        "data/images/weisswurst-1783372616-0.jpg"
+      ],
+      "ingredients": [
+        "A paar Würstel",
+        "Brezn",
+        "Süßer Senf"
+      ],
+      "steps": [],
+      "notes": "O’zapft is",
+      "bereich": "fruehstueck",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "pfannkuchen",
+      "title": "Lars Apfelpfannekuchen 🐭",
+      "category": [
+        "Süßes"
+      ],
+      "time": "30 min",
+      "servings": "2 Stück",
+      "emoji": "",
+      "image": "data/images/pfannkuchen-1783326269-0.jpg",
+      "images": [
+        "data/images/pfannkuchen-1783326269-0.jpg",
+        "data/images/pfannkuchen-1783326269-1.jpg"
+      ],
+      "ingredients": [
+        "1 Ei",
+        "1 Prise Salz",
+        "140 ml Milch (oder Wasser)",
+        "80 Gramm Mehl",
+        "Apfelscheiben"
+      ],
+      "steps": [
+        "Alle Zutaten zu einem glatten Teig verrühren",
+        "Pfanne vorheizen",
+        "Eine Kelle Teig rein, direkt apfelscheiben drauf",
+        "Von beiden Seiten goldbraun backen",
+        "Am Ende ne Flocke Butter rein fürs finish 😋"
+      ],
+      "notes": "",
+      "bereich": "kochen",
+      "group": "Pfannkuchen",
+      "updated": "2026-07-12T07:15:56.866Z",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "milchreis",
+      "title": "Milchreis mit Zimt",
+      "category": "Süßes",
+      "time": "",
+      "servings": "",
+      "emoji": "🍚",
+      "image": "data/images/milchreis-1783240941.jpg",
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "kaesekuchen",
+      "title": "Käsekuchen",
+      "category": [
+        "Kuchen"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "🍰",
+      "image": "data/images/kaesekuchen-1783372643-0.jpg",
+      "images": [
+        "data/images/kaesekuchen-1783372643-0.jpg",
+        "data/images/kaesekuchen-1795553763-0.jpg",
+        "data/images/kaesekuchen-1795553763-1.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "Auch bekannt als Lars Geburtstagskuchen 😋",
+      "bereich": "backen",
+      "created": "2026-07-04T12:00:00.000Z",
+      "updated": "2026-11-24T20:56:06.645Z"
+    },
+    {
+      "id": "maultaschen-pfanne",
+      "title": "Maultaschen Pfanne",
+      "category": [
+        "Ofen & Pfanne"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "",
+      "images": [],
+      "ingredients": [
+        "Maultaschen",
+        "Zwiebeln",
+        "Eier",
+        "Salz",
+        "Pfeffer",
+        "Salatkräuter - Aus dem Glas nicht Päckchen"
+      ],
+      "steps": [],
+      "notes": "Wenn man mag, Gurkensalat dazu",
+      "bereich": "kochen",
+      "updated": "2026-07-16T17:25:10.705Z",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "zucchini-puffer",
+      "title": "Zucchini Puffer",
+      "category": [
+        "Ofen & Pfanne"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "data/images/zucchini-puffer-1783375518-0.jpg",
+      "images": [
+        "data/images/zucchini-puffer-1783375518-0.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "waffeln",
+      "title": "Waffeln",
+      "category": [
+        "Sweets"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "data/images/waffeln-1783372721-0.jpg",
+      "images": [
+        "data/images/waffeln-1783372721-0.jpg",
+        "data/images/waffeln-1783372721-1.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "Die besten Waffelrezepte sind in Annika’s Waffelbuch ♥️",
+      "bereich": "backen",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "annika-s-pfannkuchen-crepes",
+      "title": "Annika’s Pfannkuchen (Crepes 😉)",
+      "category": [
+        "Ofen & Pfanne",
+        "Süßes"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "data/images/annika-s-pfannkuchen-crepes-1783373617-0.jpg",
+      "images": [
+        "data/images/annika-s-pfannkuchen-crepes-1783373617-0.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "Süß oder salzig  😋😋😋",
+      "bereich": "kochen",
+      "group": "Pfannkuchen",
+      "created": "2026-07-08T07:40:28.257Z",
+      "updated": "2026-07-12T07:12:05.441Z"
+    },
+    {
+      "id": "pfannkuchen-mit-spinat-und-tomatensauce",
+      "title": "Pfannkuchen mit Spinat und Tomatensauce",
+      "category": [
+        "Ofen & Pfanne"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "",
+      "images": [],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "group": "Pfannkuchen",
+      "created": "2026-07-12T07:11:40.962Z",
+      "updated": "2026-07-12T07:11:40.962Z"
+    },
+    {
+      "id": "roesti",
+      "title": "Rösti",
+      "category": [
+        "Ofen & Pfanne",
+        "Comfort food"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "data/images/roesti-1785010876-1.jpg",
+      "images": [
+        "data/images/roesti-1785010876-1.jpg"
+      ],
+      "ingredients": [
+        "Rösti Mischung",
+        "Spiegelei",
+        "Speck",
+        "Karamellisierte Zwiebeln"
+      ],
+      "steps": [
+        "Braucht’s hier ne Anleitung haha ?"
+      ],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-25T20:21:20.157Z",
+      "updated": "2026-07-26T10:07:42.061Z"
+    },
+    {
+      "id": "flammkuchen",
+      "title": "Flammkuchen",
+      "category": [
+        "Ofen & Pfanne"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "data/images/flammkuchen-1795553527-0.jpg",
+      "images": [
+        "data/images/flammkuchen-1795553527-0.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-11-24T20:52:09.709Z",
+      "updated": "2026-11-24T20:52:09.709Z"
+    },
+    {
+      "id": "chicken-wings-2",
+      "title": "Chicken Wings",
+      "category": [
+        "Airfryer",
+        "Streetfood"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "data/images/chicken-wings-2-1783373862-0.jpg",
+      "images": [
+        "data/images/chicken-wings-2-1783373862-0.jpg",
+        "data/images/chicken-wings-2-1783373862-1.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-08T07:53:34.859Z",
+      "updated": "2026-11-25T09:54:00.234Z"
+    },
+    {
+      "id": "weihnachtsgans",
+      "title": "Weihnachtsgans",
+      "category": [],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "data/images/weihnachtsgans-1783375425-0.jpg",
+      "images": [
+        "data/images/weihnachtsgans-1783375425-0.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "spinat-pasta",
+      "title": "Spinat Pasta",
+      "category": [],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "data/images/spinat-pasta-1783375578-0.jpg",
+      "images": [
+        "data/images/spinat-pasta-1783375578-0.jpg"
+      ],
+      "ingredients": [
+        "Pasta",
+        "Spinat",
+        "Knoblauch",
+        "Tomaten",
+        "Parmesan"
+      ],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "pesto-snoodels",
+      "title": "Pesto Snoodels",
+      "category": [],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "data/images/pesto-snoodels-1783375942-0.jpg",
+      "images": [
+        "data/images/pesto-snoodels-1783375942-0.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "annika-s-san-diego-breakfast-bagel",
+      "title": "Annika’s San Diego Breakfast Bagel 🥯",
+      "category": [
+        "Ei",
+        "Herzhaft"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "",
+      "images": [],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "fruehstueck",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "karottenkuchen",
+      "title": "Karottenkuchen",
+      "category": [
+        "Kuchen"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "",
+      "images": [],
+      "ingredients": [],
+      "steps": [],
+      "notes": "Aka Annika’s Geburtstagskuchen ♥️",
+      "bereich": "backen",
+      "created": "2026-07-04T12:00:00.000Z"
+    },
+    {
+      "id": "zitronentarte",
+      "title": "Zitronentarte",
+      "category": [
+        "Kuchen"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "data/images/zitronentarte-1784393137-0.jpg",
+      "images": [
+        "data/images/zitronentarte-1784393137-0.jpg",
+        "data/images/zitronentarte-1784393137-1.jpg",
+        "data/images/zitronentarte-1784393137-2.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "https://thecookingfoodie.com/recipe/lemon-tart-recipe/",
+      "bereich": "backen",
+      "created": "2026-07-15T14:49:09.021Z",
+      "updated": "2026-07-19T20:37:21.173Z"
+    },
+    {
+      "id": "griechischer-salat",
+      "title": "Griechischer Salat",
+      "category": [
+        "Salat"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "🇬🇷",
+      "image": "",
+      "images": [],
+      "ingredients": [
+        "Tomate",
+        "Gurke",
+        "Fetaaaa",
+        "Zwiebeln"
+      ],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-08T07:52:18.006Z",
+      "updated": "2026-07-08T07:52:18.006Z"
+    },
+    {
+      "id": "tomate-mozzarella",
+      "title": "Tomate - Mozzarella",
+      "category": [
+        "Salat"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "",
+      "images": [],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-10T18:28:22.088Z",
+      "updated": "2026-07-10T18:28:22.088Z"
+    },
+    {
+      "id": "gurke-tomate-feta-salat",
+      "title": "Gurke Tomate Feta Salat",
+      "category": [
+        "Salat"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "",
+      "images": [],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-10T18:29:07.773Z",
+      "updated": "2026-07-10T18:29:07.773Z"
+    },
+    {
+      "id": "gurkensalat",
+      "title": "Gurkensalat",
+      "category": [
+        "Salat"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "",
+      "images": [],
+      "ingredients": [
+        "1 Gurke",
+        "1 El Kräuterfrischkäse",
+        "Schuss Rapsöl",
+        "Schuss Balsamico",
+        "Salatkräuter getrocknet",
+        "Dill",
+        "Schuss Wasser"
+      ],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-16T17:18:36.134Z",
+      "updated": "2026-07-16T17:18:36.134Z"
+    },
+    {
+      "id": "gefuellte-zucchini-und-paprika-mit-reis",
+      "title": "Gefüllte Zucchini und Paprika mit Reis",
+      "category": [],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "",
+      "images": [],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-17T17:27:01.785Z",
+      "updated": "2026-07-17T17:27:01.785Z"
+    },
+    {
+      "id": "wrap-burger-grill-sosse",
+      "title": "Wrap / Burger / Grill Soße",
+      "category": [
+        "Saucen"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "🌮",
+      "image": "data/images/wrap-burger-grill-sosse-1784455323-0.jpg",
+      "images": [
+        "data/images/wrap-burger-grill-sosse-1784455323-0.jpg",
+        "data/images/wrap-burger-grill-sosse-1784455323-1.jpg"
+      ],
+      "ingredients": [
+        "Wie im Bild aber mit Jogurt"
+      ],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-19T10:02:05.952Z",
+      "updated": "2026-07-19T10:02:05.952Z"
+    },
+    {
+      "id": "hefezopf-mit-quark",
+      "title": "Hefezopf mit Quark",
+      "category": [],
+      "time": "",
+      "servings": "",
+      "emoji": "👩🏼‍🍳🧈",
+      "image": "data/images/hefezopf-mit-quark-1784457836-0.jpg",
+      "images": [
+        "data/images/hefezopf-mit-quark-1784457836-0.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "backen",
+      "created": "2026-07-19T10:38:01.883Z",
+      "updated": "2026-07-19T10:43:57.959Z"
+    },
+    {
+      "id": "zwetschgenkuchen-mit-zimtstreusel",
+      "title": "Zwetschgenkuchen mit Zimtstreusel",
+      "category": [],
+      "time": "",
+      "servings": "",
+      "emoji": "🍰",
+      "image": "data/images/zwetschgenkuchen-mit-zimtstreusel-1784457632-0.jpg",
+      "images": [
+        "data/images/zwetschgenkuchen-mit-zimtstreusel-1784457632-0.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "backen",
+      "created": "2026-07-19T10:39:47.881Z",
+      "updated": "2026-07-19T10:40:33.752Z"
+    },
+    {
+      "id": "hefezopf",
+      "title": "Hefezopf Vegan 🌱",
+      "category": [],
+      "time": "",
+      "servings": "",
+      "emoji": "🥐",
+      "image": "data/images/hefezopf-1784458060-0.jpg",
+      "images": [
+        "data/images/hefezopf-1784458060-0.jpg"
+      ],
+      "ingredients": [
+        "1 Päckchen Trockenhefe",
+        "180 ml lauwarme Hafermilch",
+        "50g Zucker",
+        "60g weiche Margarine",
+        "375g",
+        "1 Prise Salz",
+        "1 Ei"
+      ],
+      "steps": [],
+      "notes": "",
+      "bereich": "backen",
+      "created": "2026-07-19T10:47:26.722Z",
+      "updated": "2026-07-26T10:00:43.200Z"
+    },
+    {
+      "id": "szegediner-gulasch",
+      "title": "Szegediner Gulasch",
+      "category": [],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "data/images/szegediner-gulasch-1784486570-0.jpg",
+      "images": [
+        "data/images/szegediner-gulasch-1784486570-0.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-19T18:42:52.991Z",
+      "updated": "2026-07-19T18:42:52.991Z"
+    },
+    {
+      "id": "gemuese-lasagne",
+      "title": "Gemüse Lasagne",
+      "category": [
+        "Pasta & Gnocchi"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "🍝",
+      "image": "data/images/gemuese-lasagne-1784831862-0.jpg",
+      "images": [
+        "data/images/gemuese-lasagne-1784831862-0.jpg",
+        "data/images/gemuese-lasagne-1795548672-0.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-23T18:37:44.330Z",
+      "updated": "2026-11-24T19:31:14.456Z"
+    },
+    {
+      "id": "annika-s-high-protein-pumper-cheesecake",
+      "title": "Annika’s High Protein Pumper Cheesecake",
+      "category": [],
+      "time": "",
+      "servings": "",
+      "emoji": "🍰",
+      "image": "data/images/annika-s-high-protein-pumper-cheesecake-1785145614-0.jpg",
+      "images": [
+        "data/images/annika-s-high-protein-pumper-cheesecake-1785145614-0.jpg",
+        "data/images/annika-s-high-protein-pumper-cheesecake-1785219340-0.jpg"
+      ],
+      "ingredients": [
+        "Mürbeteig",
+        "Skyr",
+        "Frischkäse",
+        "Beeren",
+        "Streusel 🥰🥰"
+      ],
+      "steps": [],
+      "notes": "Kuchen schaut einen ein bisschen an wie Rocky 🥺🥺🫶🏼",
+      "bereich": "backen",
+      "created": "2026-07-27T09:46:56.740Z",
+      "updated": "2026-07-28T06:16:14.382Z"
+    },
+    {
+      "id": "pasta-alla-zozzona",
+      "title": "Pasta alla Zozzona",
+      "category": [
+        "Ofen & Pfanne",
+        "Pasta & Gnocchi"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "🍝",
+      "image": "",
+      "images": [],
+      "ingredients": [
+        "300 g Salsiccia",
+        "200 g Guanciale",
+        "½ rote Zwiebel",
+        "350 g passierte Tomaten",
+        "ca. 200 ml Wasser",
+        "2 Eigelb",
+        "80 g Pecorino Romano",
+        "etwas Pfeffer",
+        "etwas Salz",
+        "Pasta nach Wahl",
+        "etwas Pastawasser",
+        "Pecorino zum Servieren"
+      ],
+      "steps": [
+        "Den Guanciale in einer Pfanne knusprig anbraten",
+        "Die Salsiccia aus der Haut lösen, zum Guanciale geben und alles zusammen gut anbraten",
+        "Anschließend das Fleisch aus der Pfanne nehmen",
+        "Im gleichen Fett die halbe rote Zwiebel goldbraun anbraten",
+        "Das Fleisch wieder dazugeben und kurz mitbraten",
+        "Die passierten Tomaten und ca. 200 ml Wasser hinzufügen",
+        "Etwas salzen – aber nicht zu viel, da der Pecorino bereits ordentlich Salz mitbringt",
+        "Die Sauce etwa 45 Minuten köcheln lassen.",
+        "Kurz bevor die Sauce fertig ist, die Pasta kochen",
+        "Währenddessen die Creme vorbereiten: 2 Eigelb mit 80 g Pecorino Romano und etwas Pfeffer verrühren",
+        "Falls die Carbo-Crema zu dick ist, etwas leicht abgekühltes Nudelwasser unterrühren",
+        "Die Pasta kurz vor al dente direkt zur Sauce geben und dort mit etwas Pastawasser fertig garen",
+        "Zum Schluss die Hitze ganz niedrig stellen, die Eigelb-Pecorino-Creme unterrühren und bei sehr schwacher Hitze vorsichtig weiter erhitzen. Ganz wichtig: nicht zu heiß werden lassen, sonst habt ihr am Ende Rührei!",
+        "Mit Pecorino servieren."
+      ],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-07-31T22:53:40.731Z",
+      "updated": "2026-11-24T21:00:30.207Z"
+    },
+    {
+      "id": "chicken-wings",
+      "title": "Chicken Wings",
+      "category": [
+        "Comfort food",
+        "Ofen & Pfanne",
+        "Airfryer"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "data/images/chicken-wings-1795553616-0.jpg",
+      "images": [
+        "data/images/chicken-wings-1795553616-0.jpg",
+        "data/images/chicken-wings-1795553616-1.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-11-24T20:53:39.702Z",
+      "updated": "2026-11-24T20:53:39.702Z"
+    },
+    {
+      "id": "hefezopf-ohne-milch-und-butter",
+      "title": "Hefezopf ohne Milch und Butter",
+      "category": [],
+      "time": "",
+      "servings": "",
+      "emoji": "🍞",
+      "image": "data/images/hefezopf-ohne-milch-und-butter-1785579190-0.jpg",
+      "images": [
+        "data/images/hefezopf-ohne-milch-und-butter-1785579190-0.jpg"
+      ],
+      "ingredients": [
+        "1 Päckchen Trockenhefe",
+        "180 ml lauwarme Hafermilch",
+        "50 g Zucker",
+        "60 g weiche Margarine",
+        "375 g Weizenmehl",
+        "1 Prise Salz",
+        "1 Ei"
+      ],
+      "steps": [
+        "Mehl mit Trockenhefe, Zucker und Salz durchmischen.",
+        "1 Ei einrühren.",
+        "Die weiche Margarine (gebe ich immer in die angewärmte Milch) und die lauwarme Milch unterrühren und den Teig schlagen, bis er glatt ist und glänzt.",
+        "Sollte der Teig noch sehr klebrig sein – noch einen Esslöffel Mehl zufügen.",
+        "Den Teig in der Schüssel mit einem Geschirrtuch abdecken und ca. 60 min gehen lassen – dort, wo es in Deiner Wohnung am wärmsten ist.",
+        "Teig in drei Portionen teilen, daraus jeweils eine lange Rolle rollen und diese dann zu einem Zopf flechten.",
+        "Den Zopf auf Backpapier nochmals ca. 30 min gehen lassen und dann im Backofen bei 180 Grad ca. 30 min backen.",
+        "Guten Appetit!"
+      ],
+      "notes": "",
+      "bereich": "backen",
+      "created": "2026-08-01T10:13:11.741Z",
+      "updated": "2026-08-01T10:13:11.741Z"
+    },
+    {
+      "id": "wrap-sauce",
+      "title": "Wrap Sauce",
+      "category": [
+        "Saucen"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "🌯",
+      "image": "data/images/wrap-sauce-1785579294-0.jpg",
+      "images": [
+        "data/images/wrap-sauce-1785579294-0.jpg"
+      ],
+      "ingredients": [
+        "500g Magerquark",
+        "Etwas Sonnenblumenöl",
+        "Paprika Gewürz",
+        "Grill mild",
+        "1,5 Zehen Knoblauch",
+        "1 EL Zucker",
+        "Salz",
+        "Pfeffer",
+        "Kräuter (Schnittlauch und Petersilie)",
+        "Salatkräuter nach Bedarf",
+        "Country Potato Gewürz"
+      ],
+      "steps": [
+        "Jogurt in eine Schüssel geben.",
+        "Etwas Sonnenblumenöl hinzufügen und verrühren.",
+        "Mit Paprikagewürz und Grill mild würzen.",
+        "Den Knoblauch fein hacken und unterrühren.",
+        "Zucker, Salz und Pfeffer hinzufügen und abschmecken.",
+        "Die frischen Kräuter (Schnittlauch und Petersilie) fein hacken und untermischen.",
+        "Nach Belieben mit Salatkräuter und Country Potato Gewürz servieren."
+      ],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-08-01T10:14:55.826Z",
+      "updated": "2026-08-01T10:34:44.456Z"
+    },
+    {
+      "id": "cannelloni-mit-ricotta-und-spinat",
+      "title": "Cannelloni mit Ricotta und Spinat",
+      "category": [],
+      "time": "",
+      "servings": "",
+      "emoji": "🍝",
+      "image": "",
+      "images": [],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-08-03T16:54:01.123Z",
+      "updated": "2026-08-03T16:54:01.123Z"
+    },
+    {
+      "id": "chilli-con-carne",
+      "title": "Chilli con Carne",
+      "category": [],
+      "time": "",
+      "servings": "",
+      "emoji": "🫘",
+      "image": "",
+      "images": [],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-09-10T16:37:53.915Z",
+      "updated": "2026-09-10T16:37:53.915Z"
+    },
+    {
+      "id": "raclette",
+      "title": "Raclette",
+      "category": [
+        "Festlich"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "data/images/raclette-1795553412-0.jpg",
+      "images": [
+        "data/images/raclette-1795553412-0.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-11-24T20:50:13.606Z",
+      "updated": "2026-11-24T20:50:13.606Z"
+    },
+    {
+      "id": "ravioli",
+      "title": "Ravioli",
+      "category": [
+        "Pasta & Gnocchi"
+      ],
+      "time": "",
+      "servings": "",
+      "emoji": "",
+      "image": "data/images/ravioli-1795553854-0.jpg",
+      "images": [
+        "data/images/ravioli-1795553854-0.jpg"
+      ],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "bereich": "kochen",
+      "created": "2026-11-24T20:57:36.564Z",
+      "updated": "2026-11-24T21:00:50.796Z"
+    }
+  ]
+}
