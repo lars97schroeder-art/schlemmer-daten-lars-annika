@@ -1,6 +1,6 @@
 {
   "version": "5.5",
-  "updated": "2026-11-25T21:43:02.584Z",
+  "updated": "2026-11-25T22:04:45.572Z",
   "recipes": [
     {
       "id": "kaesespaetzle",
@@ -2101,6 +2101,41 @@
       "bereich": "kochen",
       "created": "2026-11-24T20:57:36.564Z",
       "updated": "2026-11-24T21:00:50.796Z"
+    },
+    {
+      "id": "quarkbaellchen-aus-dem-airfryer",
+      "title": "Quarkbällchen aus dem Airfryer",
+      "category": [],
+      "time": "25 min",
+      "servings": "18 Stück",
+      "emoji": "🍩",
+      "image": "",
+      "images": [],
+      "ingredients": [
+        "250 g Mehl",
+        "250 g Magerquark",
+        "2 Pckg. Vanillezucker",
+        "1 Prise Salz",
+        "2 Eier",
+        "2 TL Backpulver",
+        "Außerdem:",
+        "2 EL Halbfettmargarine",
+        "3 EL Zucker"
+      ],
+      "steps": [
+        "In einer großen Schüssel das Mehl mit dem Backpulver, dem Salz und Vanillezucker gut durchmischen.",
+        "Den Quark und die Eier zur Mehlmischung geben und alles mit den Händen zu einem glatten Teig verkneten.",
+        "Den Korb der Heißluftfritteuse mit Backpapier auslegen.",
+        "Mit angefeuchteten Händen aus dem Teig Bällchen formen und diese mit Abstand in den Korb legen.",
+        "Die Quarkbällchen bei 180 Grad für 10 bis 12 Minuten goldbraun backen. Nach 7 Minuten einmal wenden.",
+        "Sofort nach dem Backen die Bällchen dünn mit der Halbfettmargarine bepinseln und in Zucker wälzen."
+      ],
+      "notes": "",
+      "bereich": "backen",
+      "created": "2026-11-25T22:04:45.571Z",
+      "updated": "2026-11-25T22:04:45.571Z",
+      "updatedBy": "Lars",
+      "createdBy": "Lars"
     }
   ]
 }
