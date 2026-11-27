@@ -1,6 +1,6 @@
 {
   "version": "5.5",
-  "updated": "2026-11-25T22:04:45.572Z",
+  "updated": "2026-11-27T11:44:47.551Z",
   "recipes": [
     {
       "id": "kaesespaetzle",
@@ -418,8 +418,9 @@
       "steps": [],
       "notes": "",
       "bereich": "kochen",
-      "updated": "2026-07-21T17:34:15.889Z",
-      "created": "2026-07-04T12:00:00.000Z"
+      "created": "2026-07-04T12:00:00.000Z",
+      "updated": "2026-11-27T11:44:47.550Z",
+      "updatedBy": "Lars"
     },
     {
       "id": "asia-snoodles-pfanne",
