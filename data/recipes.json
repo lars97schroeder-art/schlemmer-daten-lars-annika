@@ -1,6 +1,6 @@
 {
   "version": "5.5",
-  "updated": "2026-11-27T11:44:47.551Z",
+  "updated": "2026-11-27T11:45:13.782Z",
   "recipes": [
     {
       "id": "kaesespaetzle",
@@ -406,7 +406,8 @@
       "image": "data/images/kokosmilch-gemuese-mit-sojasosse-1783327937-0.jpg",
       "images": [
         "data/images/kokosmilch-gemuese-mit-sojasosse-1783327937-0.jpg",
-        "data/images/kokosmilch-gemuese-mit-sojasosse-1783327937-1.jpg"
+        "data/images/kokosmilch-gemuese-mit-sojasosse-1783327937-1.jpg",
+        "data/images/kokosmilch-gemuese-mit-sojasosse-1795779911-0.jpg"
       ],
       "ingredients": [
         "Gemüse nach Wahl",
@@ -419,7 +420,7 @@
       "notes": "",
       "bereich": "kochen",
       "created": "2026-07-04T12:00:00.000Z",
-      "updated": "2026-11-27T11:44:47.550Z",
+      "updated": "2026-11-27T11:45:13.782Z",
       "updatedBy": "Lars"
     },
     {
