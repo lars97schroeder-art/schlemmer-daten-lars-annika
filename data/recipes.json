@@ -1,6 +1,6 @@
 {
   "version": "5.5",
-  "updated": "2026-11-28T11:08:04.317Z",
+  "updated": "2026-11-28T11:08:16.121Z",
   "recipes": [
     {
       "id": "kaesespaetzle",
@@ -279,13 +279,13 @@
         "Knoblauch",
         "Rote Paprika",
         "Sahne",
-        "Bürste"
+        "Burrata"
       ],
       "steps": [],
       "notes": "",
       "bereich": "kochen",
       "created": "2026-07-04T12:00:00.000Z",
-      "updated": "2026-11-28T11:08:04.317Z",
+      "updated": "2026-11-28T11:08:16.121Z",
       "updatedBy": "Lars"
     },
     {
