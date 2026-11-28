@@ -1,6 +1,6 @@
 {
   "version": "5.5",
-  "updated": "2026-11-27T11:45:13.782Z",
+  "updated": "2026-11-28T11:08:04.317Z",
   "recipes": [
     {
       "id": "kaesespaetzle",
@@ -263,7 +263,9 @@
     {
       "id": "kuerbispasta-mit-unternehmensburrata",
       "title": "Kürbispasta mit Unternehmensburrata",
-      "category": "Pasta & Gnocchi",
+      "category": [
+        "Pasta & Gnocchi"
+      ],
       "time": "",
       "servings": "",
       "emoji": "🎃",
@@ -271,11 +273,20 @@
       "images": [
         "data/images/kuerbispasta-mit-unternehmensburrata-1783327827-0.jpg"
       ],
-      "ingredients": [],
+      "ingredients": [
+        "Kürbis",
+        "Zwiebeln",
+        "Knoblauch",
+        "Rote Paprika",
+        "Sahne",
+        "Bürste"
+      ],
       "steps": [],
       "notes": "",
       "bereich": "kochen",
-      "created": "2026-07-04T12:00:00.000Z"
+      "created": "2026-07-04T12:00:00.000Z",
+      "updated": "2026-11-28T11:08:04.317Z",
+      "updatedBy": "Lars"
     },
     {
       "id": "lasagne",
